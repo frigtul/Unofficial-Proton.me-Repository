@@ -1,1 +1,1 @@
-{"/etc/issue.net":"Pop!_OS 22.04 LTS","commandLine":["/usr/bin/fdroid deploy","-v"],"endTimestamp":1699699203450,"startTimestamp":1699695600000,"subcommand":"deploy"}
+{"/etc/issue.net":"Pop!_OS 22.04 LTS","commandLine":["/usr/bin/fdroid deploy"],"endTimestamp":1699699473700,"startTimestamp":1699695871000,"subcommand":"deploy"}
